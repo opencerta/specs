@@ -1,11 +1,10 @@
 ![Digital Inclusion Foundation logo](images/dif-logo.png "Digital Inclusion Foundation")
 
-# OpenCerta Certificates
-# A Vision for Digital Health Certificates
+# OpenCerta Certificates  <br />A Vision for Digital Health Certificates
 
 
 # Abstract
----
+
 This specification describes a mechanism for the issuance of tamper-evident, verifiable digital health certificates, their ecosystem, and establishing resources for its validation.
 
 

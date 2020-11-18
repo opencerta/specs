@@ -296,8 +296,9 @@ The following is an example of an OpenCerta Certificate related to an immunizati
 
 ![OpenCerta Wallet app](images/oc-wallet-app.png "OpenCerta Wallet")
 
-![SARS-CoV-2 Test Report](images/test-report.png "SARS-CoV-2 Test Report")
+![SARS-CoV-2 Test Report](images/test-report.jpg "SARS-CoV-2 Test Report")
 
+![OpenCerta Test Report](images/oc-test-report.png "OpenCerta Test Report")
 
 ## Notes
 

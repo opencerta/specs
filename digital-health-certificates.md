@@ -303,31 +303,41 @@ The following is an example of an OpenCerta Certificate related to an immunizati
 ## Notes
 
 [^1]:
+
      [https://en.wikipedia.org/wiki/QR_code](https://en.wikipedia.org/wiki/QR_code)
 
 [^2]:
+
      [https://en.wikipedia.org/wiki/Verifiable_credentials](https://en.wikipedia.org/wiki/Verifiable_credentials)
 
 [^3]:
+
      [https://en.wikipedia.org/wiki/X.509](https://en.wikipedia.org/wiki/X.509)
 
 [^4]:
+
      [https://en.wikipedia.org/wiki/Trust_anchor](https://en.wikipedia.org/wiki/Trust_anchor) 
 
 [^5]:
+
      [https://www.w3.org/2018/jsonld-cg-reports/json-ld/](https://www.w3.org/2018/jsonld-cg-reports/json-ld/)
 
 [^6]:
+
      [https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources](https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources)
 
 [^7]:
+
      [https://en.wikipedia.org/wiki/Trust_anchor](https://en.wikipedia.org/wiki/Trust_anchor)
 
 [^8]:
+
      [https://en.wikipedia.org/wiki/Carte_Jaune](https://en.wikipedia.org/wiki/Carte_Jaune)
 
 [^9]:
+
      [https://www.rfc-editor.org/info/rfc5280](https://www.rfc-editor.org/info/rfc5280)
 
 [^10]:
+
      [https://www.rfc-editor.org/info/rfc6960](https://www.rfc-editor.org/info/rfc6960)
